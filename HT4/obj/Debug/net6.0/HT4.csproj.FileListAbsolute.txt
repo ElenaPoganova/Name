@@ -1,0 +1,15 @@
+D:\Home20\Name\HT4\obj\Debug\net6.0\HT4.csproj.AssemblyReference.cache
+D:\Home20\Name\HT4\obj\Debug\net6.0\HT4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home20\Name\HT4\obj\Debug\net6.0\HT4.AssemblyInfoInputs.cache
+D:\Home20\Name\HT4\obj\Debug\net6.0\HT4.AssemblyInfo.cs
+D:\Home20\Name\HT4\obj\Debug\net6.0\HT4.csproj.CoreCompileInputs.cache
+D:\Home20\Name\HT4\bin\Debug\net6.0\HT4.exe
+D:\Home20\Name\HT4\bin\Debug\net6.0\HT4.deps.json
+D:\Home20\Name\HT4\bin\Debug\net6.0\HT4.runtimeconfig.json
+D:\Home20\Name\HT4\bin\Debug\net6.0\HT4.dll
+D:\Home20\Name\HT4\bin\Debug\net6.0\HT4.pdb
+D:\Home20\Name\HT4\obj\Debug\net6.0\HT4.dll
+D:\Home20\Name\HT4\obj\Debug\net6.0\refint\HT4.dll
+D:\Home20\Name\HT4\obj\Debug\net6.0\HT4.pdb
+D:\Home20\Name\HT4\obj\Debug\net6.0\HT4.genruntimeconfig.cache
+D:\Home20\Name\HT4\obj\Debug\net6.0\ref\HT4.dll
