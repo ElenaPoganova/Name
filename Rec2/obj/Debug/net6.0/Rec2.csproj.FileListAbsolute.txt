@@ -1,0 +1,15 @@
+D:\Home20\Name\Rec2\obj\Debug\net6.0\Rec2.csproj.AssemblyReference.cache
+D:\Home20\Name\Rec2\obj\Debug\net6.0\Rec2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home20\Name\Rec2\obj\Debug\net6.0\Rec2.AssemblyInfoInputs.cache
+D:\Home20\Name\Rec2\obj\Debug\net6.0\Rec2.AssemblyInfo.cs
+D:\Home20\Name\Rec2\obj\Debug\net6.0\Rec2.csproj.CoreCompileInputs.cache
+D:\Home20\Name\Rec2\bin\Debug\net6.0\Rec2.exe
+D:\Home20\Name\Rec2\bin\Debug\net6.0\Rec2.deps.json
+D:\Home20\Name\Rec2\bin\Debug\net6.0\Rec2.runtimeconfig.json
+D:\Home20\Name\Rec2\bin\Debug\net6.0\Rec2.dll
+D:\Home20\Name\Rec2\bin\Debug\net6.0\Rec2.pdb
+D:\Home20\Name\Rec2\obj\Debug\net6.0\Rec2.dll
+D:\Home20\Name\Rec2\obj\Debug\net6.0\refint\Rec2.dll
+D:\Home20\Name\Rec2\obj\Debug\net6.0\Rec2.pdb
+D:\Home20\Name\Rec2\obj\Debug\net6.0\Rec2.genruntimeconfig.cache
+D:\Home20\Name\Rec2\obj\Debug\net6.0\ref\Rec2.dll
