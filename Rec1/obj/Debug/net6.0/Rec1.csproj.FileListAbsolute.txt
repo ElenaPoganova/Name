@@ -1,0 +1,15 @@
+D:\Home20\Name\Rec1\bin\Debug\net6.0\Rec1.exe
+D:\Home20\Name\Rec1\bin\Debug\net6.0\Rec1.deps.json
+D:\Home20\Name\Rec1\bin\Debug\net6.0\Rec1.runtimeconfig.json
+D:\Home20\Name\Rec1\bin\Debug\net6.0\Rec1.dll
+D:\Home20\Name\Rec1\bin\Debug\net6.0\Rec1.pdb
+D:\Home20\Name\Rec1\obj\Debug\net6.0\Rec1.csproj.AssemblyReference.cache
+D:\Home20\Name\Rec1\obj\Debug\net6.0\Rec1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home20\Name\Rec1\obj\Debug\net6.0\Rec1.AssemblyInfoInputs.cache
+D:\Home20\Name\Rec1\obj\Debug\net6.0\Rec1.AssemblyInfo.cs
+D:\Home20\Name\Rec1\obj\Debug\net6.0\Rec1.csproj.CoreCompileInputs.cache
+D:\Home20\Name\Rec1\obj\Debug\net6.0\Rec1.dll
+D:\Home20\Name\Rec1\obj\Debug\net6.0\refint\Rec1.dll
+D:\Home20\Name\Rec1\obj\Debug\net6.0\Rec1.pdb
+D:\Home20\Name\Rec1\obj\Debug\net6.0\Rec1.genruntimeconfig.cache
+D:\Home20\Name\Rec1\obj\Debug\net6.0\ref\Rec1.dll
